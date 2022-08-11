@@ -1,1 +1,14 @@
+
+.tag-1
+{
+    background:style ="display: none; webkit user-select:none;margin:auto;background-color:hsl(0,0,90);transition-color 300ms;background-color"src="https://curriculum content"
+    z-index: 7;
+    display: block;
+
 /* write your override styles here */
+}
+#wall.tag-1
+{
+display: none;
+z-index: 7;
+}
